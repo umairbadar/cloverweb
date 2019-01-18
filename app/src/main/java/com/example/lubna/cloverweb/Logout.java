@@ -20,5 +20,6 @@ public class Logout extends Fragment {
         super.onViewCreated(view, savedInstanceState);
 
         //testing
+        //Umair
     }
 }
